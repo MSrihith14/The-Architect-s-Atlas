@@ -18,7 +18,7 @@ This is the "how-to" section. I believe technology should solve problems, not cr
 
 *   **[The Bridge Configuration: A Step-by-Step Guide to Building a 'Grandparent-Proof' Computer](./guides/bridge-configuration.md)**
 *   **[The Ultimate Optimization Guide: Making an Old Windows Laptop Usable Again](./guides/windows-optimization.md)**
-*   **[The Console Liberation Guide: The Definitive Walkthrough for Modding a PlayStation 2](#)**
+*   **[The Console Liberation Guide: The Definitive Walkthrough for Modding a PlayStation 2](./guides/ps2-modding.md)**
 
 ### 🧠 The Mind: Understanding How it All Works
 
