@@ -35,6 +35,7 @@ This is the most personal part of the project. Knowledge comes with responsibili
 *   **[The Virus and I: A Story About a Mistake and Responsibility](./journal/the-virus-and-i.md)**
 *   **[My Limitations, My Superpower](./journal/my-limitations-my-superpower.md)**
 *   **[From a Blasted Battery to the Cosmos](#)**
+*   **[My Ethical Work](journal/two-faces-of-a-handshake.md)**
 
 ---
 
