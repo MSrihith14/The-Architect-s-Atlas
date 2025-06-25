@@ -1,4 +1,4 @@
-# The Architect's Atlas
+https://msrihith14.github.io/The-Architect-s-Atlas/ The Architect's Atlas
 
 Hi, my name is [Your Name], and this is my corner of the internet.
 
