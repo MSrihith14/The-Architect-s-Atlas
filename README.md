@@ -1,5 +1,6 @@
+# The Architect's Atlas
 
-Hi, my name is Srihith, and this is my corner of the internet.
+Hi, my name is [Your Name], and this is my corner of the internet.
 
 This whole project started because, for most of my life, the technology around me was old, slow, and limited. I didn't have the newest gear or the fastest internet. If I wanted to do something—play a game, help my family, connect with friends—I couldn't just rely on powerful hardware. I had to learn how to make the most of what I had.
 
