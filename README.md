@@ -33,7 +33,7 @@ True problem-solving comes from knowing the "why." This section is for a deeper 
 This is the most personal part of the project. Knowledge comes with responsibility—a lesson I had to learn the hard way. This is my journal, a place where I think through the ethics of technology, the weight of our mistakes, and what it means to build things that truly help people.
 
 *   **[The Virus and I: A Story About a Mistake and Responsibility](#)**
-*   **[My Limitations, My Superpower](#)**
+*   **[My Limitations, My Superpower](./journal/my-limitations-my-superpower.md)**
 *   **[From a Blasted Battery to the Cosmos](#)**
 
 ---
