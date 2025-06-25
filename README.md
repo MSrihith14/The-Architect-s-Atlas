@@ -17,7 +17,7 @@ They forced me to look under the hood. To not just use things, but to understand
 This is the "how-to" section. I believe technology should solve problems, not create them. Here, I'm creating the step-by-step guides I wish I'd had when I was starting out. No fluff, just clear instructions and screenshots to get the job done.
 
 *   **[The Bridge Configuration: A Step-by-Step Guide to Building a 'Grandparent-Proof' Computer](./guides/bridge-configuration.md).)**
-*   **[The Ultimate Optimization Guide: Making an Old Windows Laptop Usable Again](#)**
+*   **[The Ultimate Optimization Guide: Making an Old Windows Laptop Usable Again](./guides/windows-optimization.md)**
 *   **[The Console Liberation Guide: The Definitive Walkthrough for Modding a PlayStation 2](#)**
 
 ### 🧠 The Mind: Understanding How it All Works
