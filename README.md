@@ -1,4 +1,3 @@
-# The Architect's Atlas
 
 Hi, my name is Srihith, and this is my corner of the internet.
 
