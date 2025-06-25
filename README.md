@@ -16,7 +16,7 @@ They forced me to look under the hood. To not just use things, but to understand
 
 This is the "how-to" section. I believe technology should solve problems, not create them. Here, I'm creating the step-by-step guides I wish I'd had when I was starting out. No fluff, just clear instructions and screenshots to get the job done.
 
-*   **[The Bridge Configuration: A Step-by-Step Guide to Building a 'Grandparent-Proof' Computer](./guides/bridge-configuration.md).)**
+*   **[The Bridge Configuration: A Step-by-Step Guide to Building a 'Grandparent-Proof' Computer](./guides/bridge-configuration.md)**
 *   **[The Ultimate Optimization Guide: Making an Old Windows Laptop Usable Again](./guides/windows-optimization.md)**
 *   **[The Console Liberation Guide: The Definitive Walkthrough for Modding a PlayStation 2](#)**
 
@@ -24,7 +24,7 @@ This is the "how-to" section. I believe technology should solve problems, not cr
 
 True problem-solving comes from knowing the "why." This section is for a deeper dive into the concepts behind the technology. I try to break down complex topics into simple, understandable ideas, because I believe everyone deserves to understand the tools they use every day.
 
-*   **[How Your Computer *Actually* Works: A Simple Guide to CPU, RAM, and Bottlenecks](#)**
+*   **[How Your Computer *Actually* Works: A Simple Guide to CPU, RAM, and Bottlenecks](./articles/How-Your-Computer-Actually-Works.md)**
 *   **[A Practical Comparison of Operating Systems for Older Hardware](#)**
 *   **[The Magic of the Cloud: How Services Like GeForce Now Redefine 'Powerful'](#)**
 
