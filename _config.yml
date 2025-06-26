@@ -1,2 +1,4 @@
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "dark"
+title: "The Architect's Atlas"
+description: "A public library of my work on technology, systems, and philosophy."
