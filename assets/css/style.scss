@@ -1,40 +1,70 @@
 ---
 ---
 
-@import "minima";
+// This empty front matter is essential for GitHub Pages to process the file.
 
-// Your custom styles go here.
-
+// --- Global Styles ---
 body {
-  background-color: #121212; /* A dark, off-black, easier on the eyes than pure black */
-  color: #EAEAEA;            /* A soft, off-white for better readability */
+  background-color: #121212 !important;
+  color: #EAEAEA !important;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
 }
 
-a {
-  color: #4A90E2;            /* A nice, readable blue for links */
-}
-
-a:visited {
-  color: #9B59B6;            /* A different color for visited links */
-}
-
-a:hover {
-  color: #55aaff;            /* A brighter blue when you hover over a link */
+// --- Header and Links ---
+.site-header {
+  border-top: 5px solid #4A90E2;
+  border-bottom: 1px solid #333333;
 }
 
 .site-title, .site-title:visited {
-  color: #EAEAEA;            /* Makes your site title white */
+  color: #EAEAEA !important;
+}
+
+.page-link, .page-link:visited {
+  color: #cccccc !important;
+}
+
+// --- Post and Page Titles ---
+.post-header h1, .post-title, .post-title:visited {
+  color: #FFFFFF !important;
+}
+
+.post-list-heading {
+  color: #FFFFFF !important;
 }
 
 .post-link, .post-link:visited {
-    color: #EAEAEA;            /* Makes post titles on the homepage white */
+  color: #EAEAEA !important;
 }
 
+// --- General Links ---
+a, a:visited {
+  color: #4A90E2 !important; // A nice, readable blue for links
+}
+
+a:hover {
+  color: #55aaff !important; // A brighter blue on hover
+  text-decoration: underline;
+}
+
+// --- General Text and Headers ---
 h1, h2, h3, h4, h5, h6 {
-  color: #FFFFFF;            /* Makes headers pure white for emphasis */
+  color: #FFFFFF !important;
 }
 
-// This makes the code blocks have a dark background too
+// --- Code Blocks ---
 .highlight {
-    background: #232323;
+    background-color: #1a1a1a !important;
+    border: 1px solid #333333;
+}
+
+pre, code {
+    background-color: #1a1a1a !important;
+    color: #EAEAEA;
+    border: 1px solid #333333;
+}
+
+// --- Footer ---
+.site-footer {
+    border-top: 1px solid #333333;
 }
