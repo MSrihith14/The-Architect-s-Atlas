@@ -25,7 +25,7 @@ This is the "how-to" section. I believe technology should solve problems, not cr
 True problem-solving comes from knowing the "why." This section is for a deeper dive into the concepts behind the technology. I try to break down complex topics into simple, understandable ideas, because I believe everyone deserves to understand the tools they use every day.
 
 *   **[How Your Computer *Actually* Works: A Simple Guide to CPU, RAM, and Bottlenecks](./articles/How-Your-Computer-Actually-Works.md)**
-*   **[A Practical Comparison of Operating Systems for Older Hardware](./articles/How-Your-Computer-Actually-Works.md)**
+*   **[A Practical Comparison of Operating Systems for Older Hardware](./articles/os-comparison.md)**
 *   **[The Magic of the Cloud: How Services Like GeForce Now Redefine 'Powerful'](./articles/the-magic-of-the-cloud.md)**
 
 ### ❤️ The Conscience: A Creator's Journal
