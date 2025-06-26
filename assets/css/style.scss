@@ -1,0 +1,40 @@
+---
+---
+
+@import "minima";
+
+// Your custom styles go here.
+
+body {
+  background-color: #121212; /* A dark, off-black, easier on the eyes than pure black */
+  color: #EAEAEA;            /* A soft, off-white for better readability */
+}
+
+a {
+  color: #4A90E2;            /* A nice, readable blue for links */
+}
+
+a:visited {
+  color: #9B59B6;            /* A different color for visited links */
+}
+
+a:hover {
+  color: #55aaff;            /* A brighter blue when you hover over a link */
+}
+
+.site-title, .site-title:visited {
+  color: #EAEAEA;            /* Makes your site title white */
+}
+
+.post-link, .post-link:visited {
+    color: #EAEAEA;            /* Makes post titles on the homepage white */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #FFFFFF;            /* Makes headers pure white for emphasis */
+}
+
+// This makes the code blocks have a dark background too
+.highlight {
+    background: #232323;
+}
