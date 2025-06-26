@@ -1,54 +1,102 @@
 ---
-// This empty front matter is required for Jekyll to process the file.
+// This empty front matter is essential for Jekyll to process the file.
 ---
 
-// Step 1: Import the base theme's styles.
-// This brings back the centered layout and all other default styles.
-// "primer" is the most likely theme name for a default GitHub Pages site.
-@import "primer";
+/* --- 1. Core Layout --- */
+// This creates the centered, column-like layout for your content.
+
+.wrapper {
+  max-width: -webkit-calc(800px - (30px * 2));
+  max-width:         calc(800px - (30px * 2));
+  margin-right: auto;
+  margin-left:  auto;
+  padding-right: 30px;
+  padding-left:  30px;
+}
+
+@media screen and (max-width: 800px) {
+  .wrapper {
+    max-width: -webkit-calc(800px - (30px));
+    max-width:         calc(800px - (30px));
+    padding-right: 15px;
+    padding-left:  15px;
+  }
+}
 
 
-// Step 2: Add your dark mode overrides.
-// These styles will now be applied ON TOP of the theme's layout.
+/* --- 2. Dark Mode Theme Overrides --- */
+// Now we apply our colors to the now-correctly-laid-out site.
+
 body {
   background-color: #121212;
   color: #EAEAEA;
-}
-
-.site-header {
-  border-bottom: 1px solid #333333;
-}
-
-.site-title, .site-title:visited, .site-nav .page-link {
-  color: #EAEAEA;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 h1, h2, h3, h4, h5, h6 {
   color: #FFFFFF;
+  font-weight: 600;
+}
+
+p, ul, ol, li {
+  line-height: 1.6;
 }
 
 a {
   color: #4A90E2;
+  text-decoration: none;
 }
 
 a:hover {
   color: #6aafff;
+  text-decoration: underline;
+}
+
+.site-header {
+  border-top: 5px solid #4A90E2;
+  border-bottom: 1px solid #333333;
+  min-height: 56px;
+  position: relative;
+}
+
+.site-title, .site-title:visited {
+  color: #EAEAEA;
+  font-weight: 600;
+}
+
+.site-nav .page-link {
+  color: #cccccc;
 }
 
 .post-link {
   color: #EAEAEA;
 }
 
-// Code block styling
+.post-header {
+  margin-bottom: 30px;
+}
+
+.post-title {
+  color: #FFFFFF;
+  font-size: 2.5rem;
+  letter-spacing: -1px;
+  line-height: 1.15;
+}
+
 .highlight {
   background-color: #1a1a1a;
   border: 1px solid #333333;
-}
-pre, code {
-  border: 1px solid #333333;
+  padding: 8px 12px;
+  border-radius: 4px;
 }
 
-// Footer styling
+pre, code {
+  background-color: #1a1a1a;
+}
+
 .site-footer {
-    border-top: 1px solid #333333;
+  border-top: 1px solid #333333;
+  padding: 30px 0;
 }
