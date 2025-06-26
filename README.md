@@ -26,7 +26,7 @@ True problem-solving comes from knowing the "why." This section is for a deeper 
 
 *   **[How Your Computer *Actually* Works: A Simple Guide to CPU, RAM, and Bottlenecks](./articles/How-Your-Computer-Actually-Works.md)**
 *   **[A Practical Comparison of Operating Systems for Older Hardware](./articles/How-Your-Computer-Actually-Works.md)**
-*   **[The Magic of the Cloud: How Services Like GeForce Now Redefine 'Powerful'](#)**
+*   **[The Magic of the Cloud: How Services Like GeForce Now Redefine 'Powerful'](./articles/the-magic-of-the-cloud.md)**
 
 ### ❤️ The Conscience: A Creator's Journal
 
