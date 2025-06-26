@@ -35,10 +35,6 @@ This is the most personal part of the project. Knowledge comes with responsibili
 *   **[The Virus and I: A Story About a Mistake and Responsibility](./journal/the-virus-and-i.md)**
 *   **[My Limitations, My Superpower](./journal/my-limitations-my-superpower.md)**
 *   **[From a Blasted Battery to the Cosmos](./journal/from-battery-to-cosmos.md)**
-
-*   ---
-### A Word from a User
-> "I was always afraid of my computer, but [Your Name]'s guide made it so simple. Now I can video call my grandchildren without any fear. It has truly been a gift." - [Name of Person]
 *   **[The Ethical Wifi Framework](journal/two-faces-of-a-handshake.md)**
 *   ---
 ### A Word from a User
