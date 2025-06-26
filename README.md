@@ -40,7 +40,6 @@ This is the most personal part of the project. Knowledge comes with responsibili
 ### A Word from a User
 > "I was always afraid of my computer, but [Your Name]'s guide made it so simple. Now I can video call my grandchildren without any fear. It has truly been a gift." - [Name of Person]
 *   **[The Ethical Wifi Framework](journal/two-faces-of-a-handshake.md)**
-
----
-
-This whole project is a work in progress, just like me. Thanks for stopping by and taking a look. I hope you find something here that's helpful, or at least, interesting.
+*   ---
+### A Word from a User
+> "I was always afraid of my computer, but [Your Name]'s guide made it so simple. Now I can video call my grandchildren without any fear. It has truly been a gift." - [Name of Person]
