@@ -1,37 +1,3 @@
-<style>
-  body {
-    background-color: #121212 !important;
-    color: #e0e0e0 !important;
-  }
-  
-  h1, h2, h3, h4, h5, h6 {
-    color: #bb86fc !important;
-  }
-  
-  a {
-    color: #64b5f6 !important;
-  }
-  
-  pre, code {
-    background-color: #1e1e1e !important;
-    border-color: #333 !important;
-  }
-  
-  table {
-    border-color: #444 !important;
-  }
-  
-  th, td {
-    border-color: #444 !important;
-    background-color: #1e1e1e !important;
-  }
-  
-  blockquote {
-    color: #aaa;
-    border-left-color: #555 !important;
-  }
-</style>
-
 # The Architect's Atlas
 
 Hi, my name is [Your Name], and this is my corner of the internet.
